@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NFC Card Reader</string>
+    <string name="ready_to_scan">Siap Membaca</string>
+    <string name="scanning">Membaca kartu...</string>
+    <string name="card_detected">Kartu Terdeteksi! ✓</string>
+    <string name="tap_card">Tempelkan kartu akses ke bagian belakang ponsel</string>
+    <string name="hold_card">Tahan kartu di posisinya</string>
+    <string name="no_nfc_support">Perangkat Tidak Mendukung NFC</string>
+    <string name="nfc_disabled">NFC Dinonaktifkan</string>
+    <string name="card_history">Riwayat Kartu Terbaca</string>
+    <string name="no_cards_read">Belum ada kartu yang terbaca</string>
+</resources>
